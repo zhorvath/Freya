@@ -1,0 +1,13 @@
+Index: configure.in
+===================================================================
+--- configure.in	(revision 12492)
++++ configure.in	(working copy)
+@@ -2157,6 +2157,8 @@
+    callgrind/callgrind_annotate
+    callgrind/callgrind_control
+    callgrind/tests/Makefile
++   freya/Makefile
++   freya/tests/Makefile
+    helgrind/Makefile
+    helgrind/tests/Makefile
+    massif/Makefile
